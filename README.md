@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# ECE Team Fun Cool Party Place
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Welcome to ECE Team Fun Cool Party Place—where millions of ECE Team Fun Cool Party together on Place. Ready to Fun Cool Party? Let’s Fun Cool Party!
 
 ## Repositories
 
