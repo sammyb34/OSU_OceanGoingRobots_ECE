@@ -1,4 +1,4 @@
-# ECE Team Fun Cool Party Place
+# Ocean Going Robots ECE Capstone Project
 
 Welcome to ECE Team Fun Cool Party Place—where millions of ECE Team Fun Cool Party together on Place. Ready to Fun Cool Party? Let’s Fun Cool Party!
 
