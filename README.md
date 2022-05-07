@@ -5,6 +5,7 @@ A repository to hold all firmware used for the STM32 Microcontroller including t
 ## How to use: 
 
 - Download the Repository as a .zip file
-- Extract the file contents into your STM32 Cube workspace in File Explorer
+- Extract the folder contents and find the "MCU_Block.zip" folder included
+- Extract the MCU_Block.zip folder into the STM32 Cube Workspace found in File Explorer
 - Open the Cube IDE and choose the "Open Projects from File System" under the Files tab in the top left corner
 - Select you extracted folder and press run!
